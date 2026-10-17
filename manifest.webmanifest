@@ -1,8 +1,8 @@
 {
  "name": "İşlem Takip",
  "short_name": "İşlem Takip",
- "start_url": "./",
- "scope": "./",
+ "start_url": "/islem-takip/",
+ "scope": "/islem-takip/",
  "display": "standalone",
  "background_color": "#0a0a0b",
  "theme_color": "#0a0a0b",
@@ -19,5 +19,6 @@
    "type": "image/png",
    "purpose": "any maskable"
   }
- ]
+ ],
+ "id": "/islem-takip/"
 }
